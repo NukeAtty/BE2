@@ -10,31 +10,37 @@
 
 ## Tech Trees
 
+### Allied Tactics
+|Tactics|Prerequisite|
+|-------|------------|
+|Thunderbolt Support||
+|||
+
 ### Allied Vehicles
 
 |Tech Level|Unit|Primary|
 |----------|----|--------|
 |1|Harvester|
 |2|Humvee|M2 HB|
-|3|Grizzly Tank|
-|4|Avenger|
-|5|A.R.V.|
-|6|Blackhawk|
-|7|Abrams|
-|8|Apache|
+|3|Grizzly Tank|90mm M41|
+|4|Avenger|A.D.L.S.|
+|5|A.R.V.|Repair Crane|
+|6|Blackhawk|N/A|
+|7|Abrams|105mm M65|
+|8|Apache|Rocket Launcher|
 
 ### Soviet Vehicles
 
-|Tech Level|Unit|
-|----------|----|
+|Tech Level|Unit|Primary|
+|----------|----|-------|
 |1|Harvester|
-|2|B.M.P.|
-|3|Rhino Tank|
-|4|Shilka|
-|5|Amphibious APC|
-|6|Grad MLRS|
-|7|Defender|
-|8|Hind|
+|2|B.M.P.|30mm Auto Cannon|
+|3|Rhino Tank|100mm D56TS|
+|4|Shilka|23mm ZSU-23|
+|5|Amphibious APC|KPVT|
+|6|Grad MLRS|BM-21|
+|7|Defender|125mm 2A46|
+|8|Hind|Rocket Launcher|
 
 ### Chinese Vehicles
 
