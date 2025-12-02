@@ -1,55 +1,47 @@
 # Bellum Æternum II Tech Tree Design
 
 ## Factions
-|Allied|Soviet|
-|------|------|
-|USA|USSR|
-|UK|Czechslovakia|
-|France|Poland|
+- Allied
+- Russia
+- China
 
-## Traits
-|House|Traits|
-|-----|------|
-|USA|Air Force|
-|UK|HESH|
-|France|Autoloader|
-|USSR|Industrial Power|
-|Czechslovakia|Spaced Armor|
-|Poland|Turbine|
+## Tech Trees
 
-## Buildings
-### Allied
-|USA|UK|France|
-|---|--|------|
-|Power Plant|Power Plant|Power Plant|
-|Ore Refinery|Ore Refinery|Ore Refinery|
-|Barracks|Barracks|Barracks|
-|Weapon Factory|Weapon Factory|Weapon Factory|
-|Battle Command|Battle Command|Battle Command|
-|Air Force Command HQ|Air Force Command HQ||Air Force Command HQ|
-|Battle Lab|Battle Lab|Battle Lab|
-|Ore Purifier|Ore Purifier|Ore Purifier|
+### Allied Vehicles
 
-## Vehicles
-### Allied
-|USA|UK|France|
-|---|--|------|
-|Stealth Miner|Stealth Miner|Stealth Miner|
-|Guardian Tank|Centurion Tank|Lorraine Tank|
-|I.F.V.|I.F.V.|I.F.V.|
-|Cobra Chopper|Stealth Tank|AVRE|
-|Phantom|Meteor|Mystère|
-|Prism Tank|Prism Tank|Prism Tank|
-|Battle Fortress|Devastator|Foch|
+|Tech Level|Unit|
+|----------|----|
+|1|Harvester|
+|2|Humvee|
+|3|Grizzly Tank|
+|4|Avenger|
+|5|A.R.V.|
+|6|Blackhawk|
+|7|Abrams|
+|8|Apache|
 
-### Soviet
-|USSR|Czechslovakia|Poland|
-|----|-------------|------|
-|War Miner|War Miner|War Miner|
-|Hammer Tank|Wolfhound Tank|Hurricane Tank|
-|Shilka|Flak Track|Flak Track|
-|Radar BMP|Mobile Radar|Mobile Radar|
-|Katyusha|Katyusha|Katyusha|
-|Tesla Tank|Tesla Tank|Tesla Tank|
-|MiG|MiG|MiG|
-|Apocalypse Tank|||
+### Russian Vehicles
+
+|Tech Level|Unit|
+|----------|----|
+|1|Harvester|
+|2|B.M.P.|
+|3|Rhino Tank|
+|4|Shilka|
+|5|Amphibious APC|
+|6|Grad MLRS|
+|7|Defender|
+|8|Hind|
+
+### Chinese Vehicles
+
+|Tech Level|Unit|
+|----------|----|
+|1|Harvester|
+|2|Type 62|
+|3|Tempest Tank|
+|4|PGZ95|
+|5|ZBD86|
+|6||
+|7|ZTZ99|
+|8|Z8|
