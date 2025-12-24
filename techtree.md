@@ -28,6 +28,7 @@
 |6|Blackhawk|N/A|
 |7|Abrams|105mm M65|
 |8|Apache|Rocket Launcher|
+|9|Prism Tank|Photum Projector|
 
 ### Soviet Vehicles
 
@@ -41,15 +42,16 @@
 |6|Grad MLRS|BM-21|
 |7|Defender|125mm 2A46|
 |8|Hind|Rocket Launcher|
+|9|Tesla Tank|N100T Capacitor|
 
 ### Chinese Vehicles
 
 |Tech Level|Unit|
 |----------|----|
 |1|Harvester|
-|2|Type 62|
+|2|Amphibious Tank|
 |3|Tempest Tank|
-|4|WZ301|
+|4|Flak Tank|
 |5|ZBD86|
 |6||
 |7|ZTZ88|
