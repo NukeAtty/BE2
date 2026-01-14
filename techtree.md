@@ -1,12 +1,12 @@
 # Bellum Æternum II Tech Tree Design
 
 ## Time line
-1985~1991
+1981~1991
 
 ## Factions
 - Allied
 - Soviet
-- China
+- 
 
 ## Tech Trees
 
@@ -22,7 +22,7 @@
 |----------|----|--------|
 |1|Stealth Harvester|N/A|
 |2|Humvee|M2 HB|
-|3|I.F.V.|Multiple Weapons Sys|
+|3|Bradley IFV|Multiple Weapons Sys|
 |4|Grizzly Tank|90mm M41|
 |5|Stealth Tank|105mm Recoiless Cannon|
 |6|Blackhawk|Vulcan|
