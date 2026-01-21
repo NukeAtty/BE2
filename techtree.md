@@ -105,7 +105,7 @@
 |MBT|[]-|Main Battle Tank|
 |TR|[iii]|Transportaiion|
 |AMBT|[][]-|Advanced Main Battle Tank|
-|HELI|*|Attack Helicopter|
+|CAS|*|Close Air Support|
 
 ### Allied Vehicles
 
