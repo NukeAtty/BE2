@@ -96,17 +96,28 @@
 |2|RPG Trooper|
 |3|Engineer|
 
+## Vehicle Classes
+|Abbreviation|Icon|Definition|
+|------------|----|----------|
+|HV|D-[]|Harvester|
+|AV|[o-o]|Assault Vehicle|
+|AA|[]=|Anti Air|
+|MBT|[]-|Main Battle Tank|
+|TR|[iii]|Transportaiion|
+|AMBT|[][]-|Advanced Main Battle Tank|
+|HELI|*|Attack Helicopter|
+
 ### Allied Vehicles
 
-|Tech Level|Unit|Primary|Trait|
-|----------|----|-------|-----|
-|1|Stealth Harvester|N/A|
-|2|Humvee|M2 HB|Carries 3 Assaulters/Driver can be killed|
-|3|Bradley IFV|Multiple Weapons Sys|
-|4|Grizzly Tank|90mm M41|
-|5|Blackhawk|Vulcan|Carries 5 Guardians/Driver can be killed/Open Topped|
-|6|Abrams|120mm M256|
-|7|Apache|Pod Rocket Launcher|
+|Tech Level|Class|Unit|Primary|Trait|
+|----------|-----|----|-------|-----|
+|1|HV|Stealth Harvester|N/A|
+|2|AV|Humvee|M2 HB|Carries 3 Assaulters/Driver can be killed|
+|3|AA|Bradley IFV|Multiple Weapons Sys|
+|4|MBT|Grizzly Tank|90mm M41|
+|5|TR|Blackhawk|Vulcan|Carries 5 Guardians/Driver can be killed/Open Topped|
+|6|AMBT|Abrams|120mm M256|
+|7|HELI|Apache|Pod Rocket Launcher|
 
 ### Soviet Vehicles
 
