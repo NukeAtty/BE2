@@ -108,7 +108,6 @@
 |CAS|*|Close Air Support|
 
 ### Allied Vehicles
-
 |Tech Level|Class|Unit|Primary|Trait|
 |----------|-----|----|-------|-----|
 |1|HV|Stealth Harvester|N/A|
@@ -143,24 +142,3 @@
 |6||
 |7|ZTZ88|
 |8|Z8|
-
-## Sub Factions
-|Side|Country 1|Country 2|Country 3|
-|----|---------|---------|---------|
-|Allied|USA|UK|France|
-|Soviet|USSR|Czechslovakia|Poland|
-
-## Sub Factions Units
-
-### Allied
-
-|Tech Level|USA|UK|France|
-|----------|---|--|------|
-|1|Stealth Harvester|Stealth Harvester|Stealth Harvester|
-|2|Humvee||
-|3|I.F.V.|Multiple Weapons Sys|
-|4|Grizzly Tank|90mm M41|
-|5|Stealth Tank|105mm Recoiless Cannon|
-|6|Blackhawk|Vulcan|
-|7|Abrams|120mm M256|
-|8|Apache|Pod Rocket Launcher|
